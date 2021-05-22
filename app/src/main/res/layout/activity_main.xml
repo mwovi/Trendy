@@ -7,18 +7,6 @@
     tools:context=".MainActivity">
 
 
-<!--    <WebView-->
-<!--        android:id="@+id/trendy_web"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="match_parent"-->
-<!--        app:layout_constraintBottom_toBottomOf="parent"-->
-<!--        app:layout_constraintEnd_toEndOf="parent"-->
-<!--        app:layout_constraintStart_toStartOf="parent"-->
-<!--        app:layout_constraintTop_toTopOf="parent" >-->
-
-
-<!--    </WebView>-->
-
 
     <ImageView
         android:id="@+id/image_no_net"
